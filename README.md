@@ -1,1 +1,1 @@
-# CFT-League
+# CTF-League
